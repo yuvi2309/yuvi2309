@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yuvi2309?tab=repositories](https://github.com/yuvi2309?tab=repositories)
 
-- 💬 Ask me about **Who to live a chill Life in IIT, and web development.**
+- 💬 Ask me about **How to live a chill Life in IIT, and web development.**
 
 - 📫 How to reach me **dhakadyuvraj23@gmail.com**
 
