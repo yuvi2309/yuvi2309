@@ -19,6 +19,8 @@
 
 - ⚡ Fun fact **I am good at playing VolleyBall**
 
+- 📄 My Resume - **https://drive.google.com/file/d/1g89Y-hFs7E7aAi17t3HOuv9kWjJM37B5/view?usp=sharing**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yuvraj-nagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuvraj-nagar" height="30" width="40" /></a>
